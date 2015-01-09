@@ -1,0 +1,17 @@
+[
+    {
+        "name": "user",
+        "attributes": [
+            {"name": "id", "type": "N"},
+            {"name": "name", "type": "S"}
+        ]
+    },
+    {
+        "name": "car",
+        "attributes": [
+            {"name": "id", "type": "N"},
+            {"name": "user_id", "type": "N"},
+            {"name": "model", "type": "S"}
+        ]
+    }
+]

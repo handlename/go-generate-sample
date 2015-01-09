@@ -1,0 +1,5 @@
+sample
+
+# go generate
+cmd/gen-schema/gen-schema
+schema.go
